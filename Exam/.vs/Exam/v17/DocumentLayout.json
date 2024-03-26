@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\InClass\\SEM3\\Azure\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A74998D3-2C92-4F22-AAAE-8BDC4A0FD317}|Exam\\Exam.csproj|d:\\inclass\\sem3\\azure\\exam\\exam\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74998D3-2C92-4F22-AAAE-8BDC4A0FD317}|Exam\\Exam.csproj|solutionrelative:exam\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74998D3-2C92-4F22-AAAE-8BDC4A0FD317}|Exam\\Exam.csproj|d:\\inclass\\sem3\\azure\\exam\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74998D3-2C92-4F22-AAAE-8BDC4A0FD317}|Exam\\Exam.csproj|solutionrelative:exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74998D3-2C92-4F22-AAAE-8BDC4A0FD317}|Exam\\Exam.csproj|d:\\inclass\\sem3\\azure\\exam\\exam\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74998D3-2C92-4F22-AAAE-8BDC4A0FD317}|Exam\\Exam.csproj|solutionrelative:exam\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74998D3-2C92-4F22-AAAE-8BDC4A0FD317}|Exam\\Exam.csproj|d:\\inclass\\sem3\\azure\\exam\\exam\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74998D3-2C92-4F22-AAAE-8BDC4A0FD317}|Exam\\Exam.csproj|solutionrelative:exam\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\InClass\\SEM3\\Azure\\Exam\\Exam\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Exam\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\InClass\\SEM3\\Azure\\Exam\\Exam\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Exam\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:51:16.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\InClass\\SEM3\\Azure\\Exam\\Exam\\Program.cs",
+              "RelativeDocumentMoniker": "Exam\\Program.cs",
+              "ToolTip": "D:\\InClass\\SEM3\\Azure\\Exam\\Exam\\Program.cs",
+              "RelativeToolTip": "Exam\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:49:55.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "D:\\InClass\\SEM3\\Azure\\Exam\\Exam\\Models\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "Exam\\Models\\EmployeeContext.cs",
+              "ToolTip": "D:\\InClass\\SEM3\\Azure\\Exam\\Exam\\Models\\EmployeeContext.cs",
+              "RelativeToolTip": "Exam\\Models\\EmployeeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:49:11.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\InClass\\SEM3\\Azure\\Exam\\Exam\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Exam\\Models\\Employee.cs",
+              "ToolTip": "D:\\InClass\\SEM3\\Azure\\Exam\\Exam\\Models\\Employee.cs",
+              "RelativeToolTip": "Exam\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:48:25.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
